@@ -5,6 +5,10 @@
     font-family: 'Inter', sans-serif;
     color: #fff;
 }
+body p{
+    margin-bottom: 0;
+}
+
 .mgr-10{
     margin-right: 10px;
 }
@@ -63,7 +67,6 @@
     background-color: #000;
     max-width: 700px;
     margin: 0 auto;
-    height: 1000px;
 }
 
 .content {
